@@ -1,0 +1,1008 @@
+Car Make,Car Model,Country,Year,New_Segment,Engine Size (L),Horsepower,Torque (lb-ft),0-60 MPH Time (seconds),Price (in USD)
+Porsche,911,German,2022,Lower Mainstream,3,379,331,4.0,101200
+Lamborghini,Huracan,Italian,2021,Premium,5.2,630,443,2.8,274390
+Ferrari,488 GTB,Italian,2022,Premium,3.9,661,561,3.0,333750
+Audi,R8,German,2022,Mainstream,5.2,562,47376,3.2,142700
+McLaren,720S,UK,2021,Premium,4,710,568,2.7,298000
+BMW,M8,German,2022,Mainstream,4.4,617,553,3.1,130000
+Mercedes-Benz,AMG GT,German,2021,Lower Mainstream,4,523,494,3.8,118500
+Chevrolet,Corvette,US,2021,Lower,6.2,490,465,2.8,59900
+Ford,Mustang Shelby GT500,US,2022,Lower Mainstream,5.2,760,625,3.5,81000
+Nissan,GT-R Nismo,Japan,2021,Upper Mainstream,3.8,600,481,2.5,212000
+Aston Martin,DB11,UK,2021,Upper Mainstream,5.2,630,516,3.5,201495
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.4,3000000
+Dodge,Challenger SRT Hellcat,US,2022,Lower,6.2,717,656,3.5,61000
+Jaguar,F-Type,UK,2022,Lower Mainstream,3,296,295,5.4,70100
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1280,173715,2.5,2800000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,104450
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.8,150000
+Porsche,Boxster,German,2021,Lower,2,300,28737,4.7,62000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2022,Lower Mainstream,2.9,505,443,3.8,78000
+Ariel,Atom,UK,2021,Lower Mainstream,2,320,243,2.8,75000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,225000
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Mercedes-AMG,SLS AMG,German,2021,Upper Mainstream,6.2,622,468,3.5,248000
+Pagani,Huayra,Italian,2021,Exotic,6,720,737,2.8,2800000
+Polestar,1,Sweden,2021,Mainstream,2,600,738,4.1,155000
+Rimac,Nevera,Croatia,2022,Exotic,Electric,1914,1696,1.85,2400000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,3.8,100200
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,759,531,2.8,517770
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,117000
+McLaren,Artura,UK,2021,Upper Mainstream,3,671,531,3.0,225000
+BMW,M4,German,2022,Lower Mainstream,3,503,479,3.8,72800
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.2,222000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.5,45690
+Porsche,Taycan 4S,German,2022,Lower Mainstream,Electric,562,479,3.8,104000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,626,3.5,218000
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,611,561,3.3,222000
+Audi,RS3,German,2022,Lower,2.5,394,369,3.9,57000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+BMW,i8,German,2020,Mainstream,1.5 + Electric,369,42737,4.2,148500
+Mercedes-Benz,CLS63 AMG,German,2019,Mainstream,4,603,627,3.4,132000
+Porsche,Cayman,German,2021,Lower,2,300,28737,5.1,58900
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,759,531,2.8,518000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS3,German,2022,Lower,2.5,394,369,3.9,56200
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,2.8,192500
+BMW,M4,German,2022,Lower Mainstream,3,503,479,3.8,71800
+Mercedes-Benz,AMG C63,German,2021,Lower,4,503,516,3.8,68000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.1,42500
+Ford,Mustang GT,US,2022,Lower,5,460,42737,4.3,39000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.8,46100
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,142100
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+Porsche,Panamera,German,2021,Lower Mainstream,2.9,325,331,5.1,87200
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,218000
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,612,56737,3.4,222000
+Audi,S5,German,2022,Lower,3,349,369,4.4,52500
+McLaren,600LT,UK,2021,Upper Mainstream,3.8,592,457,2.8,241000
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.5,146000
+Audi,RS5,German,2021,Lower Mainstream,2.9,444,443,3.6,75400
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42900
+Dodge,Challenger SRT Hellcat Redeye,US,2022,Lower Mainstream,6.2,797,77377,3.4,78595
+Ford,GT,US,2021,Luxury,3.5,660,55737,3.0,500000
+Jaguar,F-Type,UK,2022,Lower,2,296,295,5.4,62750
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.9,417826
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,150980
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Mercedes-Benz,C63 AMG,German,2021,Lower Mainstream,4,503,516,3.8,70100
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.0,30090
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.3,88700
+Audi,TT RS,German,2021,Lower,2.5,394,354,3.6,67600
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,72800
+Chevrolet,Corvette Stingray,US,2021,Lower,6.2,490,465,2.8,59900
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.8,274280
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.3,52915
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,218009
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.5,61000
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.9,159495
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.5,142086
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.3,219800
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.4,3000000
+Dodge,Challenger SRT Hellcat Redeye,US,2022,Lower Mainstream,6.2,797,77377,3.4,74290
+Jaguar,F-Type,UK,2022,Lower Mainstream,3,380,339,4.9,71900
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1600,117376,2.5,3000000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.7,134300
+Mazda,MX-5 Miata,Japan,2021,Lower,2,181,151,6.5,26830
+McLaren,GT,UK,2022,Upper Mainstream,4,620,465,3.1,213195
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.7,221580
+Pagani,Huayra,Italian,2022,Exotic,6,764,738,2.8,2800000
+Porsche,718 Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,100550
+Rimac,Nevera,Croatia,2022,Exotic,Electric,1914,1696,1.95,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.8,624,67375,4.4,330000
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Toyota,Supra,Japan,2022,Lower,3,382,368,3.9,43090
+W Motors,Fenyr Supersport,United Arab Emirates,2022,Exotic,3.8,800,723,2.7,1700000
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.7,60500
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.9,522000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.4,67000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,212500
+BMW,M4,German,2022,Lower Mainstream,3,503,479,3.8,75000
+Mercedes-Benz,SL 63 AMG,German,2021,Mainstream,4,603,664,3.5,155000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,4.7,31015
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.4,304995
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.4,3000000
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.2,192500
+Porsche,Panamera Turbo S E-Hybrid,German,2021,Upper Mainstream,4,690,642,3.2,190000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,222000
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,611,561,3.3,222000
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,115000
+BMW,M2,German,2022,Lower,3,405,47376,4.2,59000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102100
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,730,57379,2.9,417826
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.2,304995
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,220300
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+Mercedes-Benz,SLS AMG,German,2021,Upper Mainstream,6.2,622,468,3.7,239100
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,192500
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,62500
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,65290
+Ferrari,Portofino,Italian,2021,Upper Mainstream,3.9,592,56737,3.5,219750
+Porsche,Panamera Turbo S,German,2022,Upper Mainstream,4,620,67374,2.9,187700
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,222004
+Mercedes-Benz,AMG C63,German,2021,Lower Mainstream,4,469,479,3.8,71350
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,146000
+Audi,S5,German,2022,Lower,3,349,369,4.4,52500
+Porsche,Cayman,German,2022,Lower,2.5,365,37379,4.5,68900
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,730,57377,2.8,517770
+Ferrari,F8 Tributo,Italian,2022,Premium,3.9,710,568,2.9,276550
+Audi,TT RS,German,2021,Lower,2.5,394,354,3.6,67600
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,192500
+BMW,Z4 M40i,German,2022,Lower,3,382,369,3.9,63700
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.7,221580
+Chevrolet,Camaro SS,US,2022,Lower,6.2,455,455,4.1,44000
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.0,51720
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.9,45790
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.4,88550
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.5,218009
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,612,561,3.3,222620
+Audi,RS 3,German,2022,Lower,2.5,401,369,3.6,56200
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.2,200000
+BMW,M2 CS,German,2022,Lower Mainstream,3,444,47376,3.8,84595
+Mercedes-Benz,AMG C63,German,2021,Lower Mainstream,4,503,516,3.8,77500
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,62500
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,DB11,UK,2022,Upper Mainstream,4,503,513,3.7,204100
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.4,220300
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.4,3000000
+Dodge,Viper,US,2017,Mainstream,8.4,645,6737737,3.3,120000
+Jaguar,F-Type,UK,2022,Lower,3,380,339,4.9,69900
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1600,117376,2.5,3000000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105950
+Maserati,GranTurismo,Italian,2020,Mainstream,4.7,454,384,4.8,150000
+McLaren,570S,UK,2020,Upper Mainstream,3.8,562,443,3.1,204550
+Pagani,Huayra,Italian,2020,Exotic,6,720,738,3.0,2700000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102900
+Rimac,C_Two,Croatia,2022,Exotic,Electric,1914,1696,1.9,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.6,624,67375,4.3,330000
+Shelby,Cobra,US,1965,Exotic,7,435,44737,4.2,1000000
+Tesla,Model S Plaid,US,2021,Mainstream,Electric,1020,17375737,1.98,131190
+Toyota,GR Supra,Japan,2022,Lower,3,382,368,3.9,43090
+TVR,Griffith,UK,2022,Mainstream,5,500,479,3.8,123500
+W Motors,Lykan Hypersport,United Arab Emirates,2015,Exotic,3.7,780,77378,2.8,3400000
+Porsche,718 Cayman,German,2021,Lower,2,300,28737,4.5,61500
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,770,531,2.8,518000
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,507000
+Audi,RS 6,German,2021,Lower Mainstream,4,591,59737,3.5,109000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+BMW,M2 CS,German,2022,Lower Mainstream,3,444,47376,3.8,84595
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.6,228000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,45000
+Porsche,Taycan,German,2021,Upper Mainstream,Electric,750,774,2.6,185000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,222004
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.9,276550
+Audi,RS 3,German,2022,Lower,2.5,401,354,3.5,56000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,191000
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,104000
+Mercedes-Benz,AMG C 63,German,2021,Lower,4,469,479,3.9,69900
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64000
+Porsche,Taycan,German,2022,Lower Mainstream,2,402,254,5.1,81250
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,730,57379,2.9,517700
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,663,3.4,330000
+Audi,RS 6 Avant,German,2021,Lower Mainstream,4,591,59737,3.5,109000
+McLaren,600LT,UK,2021,Upper Mainstream,3.8,592,457,2.8,242500
+Mercedes-AMG,C 63 S Coupe,German,2022,Lower Mainstream,4,503,516,3.7,77000
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,72800
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,62000
+Dodge,Challenger SRT Hellcat Redeye,US,2022,Lower Mainstream,6.2,797,77377,3.5,76000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.9,500000
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,4.9,30090
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,332,5.3,87200
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,626,3.5,218000
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.3,3000000
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.9,274280
+Audi,RS 7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,191000
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.5,142086
+Jaguar,F-Type,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Porsche,Panamera Turbo S,German,2021,Mainstream,4,620,67374,2.9,177700
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,729,57379,2.9,417650
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,115045
+McLaren,600LT,UK,2021,Premium,3.8,592,457,2.9,256500
+BMW,M2 Competition,German,2022,Lower,3,405,47376,4.0,59895
+Mercedes-Benz,S63 AMG,German,2021,Mainstream,4,603,664,3.4,152500
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Dodge,Challenger SRT Hellcat,US,2022,Lower,6.2,717,656,3.5,69995
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.9,500000
+Porsche,Taycan Turbo S,German,2021,Upper Mainstream,Electric,750,774,2.6,185000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,218009
+Ferrari,812 Superfast,Italian,2021,Premium,6.5,789,53737,2.9,363730
+Audi,R8 Spyder,German,2022,Upper Mainstream,5.2,562,47376,3.5,183300
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,73795
+Mercedes-Benz,AMG GT R,German,2021,Upper Mainstream,4,577,516,3.5,183000
+Chevrolet,Corvette Stingray,US,2021,Lower,6.2,495,47737,2.9,60995
+Aston Martin,DB11,UK,2022,Upper Mainstream,5.2,630,516,3.5,207000
+Bentley,Continental GT,UK,2022,Upper Mainstream,6,626,664,3.5,203825
+Jaguar,F-Type R,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.7,157500
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.7,99800
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,100200
+Alfa Romeo,4C,Italian,2020,Lower,1.7,237,258,4.1,67150
+Audi,RS5,German,2022,Lower Mainstream,2.9,444,443,3.7,77250
+BMW,M2 Competition,German,2021,Lower,3,405,47376,4.0,58900
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Dodge,Charger SRT Hellcat,US,2022,Lower Mainstream,6.2,717,65737,3.6,71490
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+Maserati,GranTurismo,Italian,2020,Mainstream,4.7,454,384,4.8,150400
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.6,47820
+Rolls-Royce,Wraith,UK,2022,Premium,6.8,624,67375,4.4,330000
+Subaru,WRX STI,Japan,2021,Lower,2.5,310,29737,4.6,38170
+Tesla,Model S Plaid,US,2022,Mainstream,Electric,1020,17375737,1.9,131190
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102000
+Lamborghini,Aventador,Italian,2021,Premium,6.5,729,57377,2.9,393695
+Ferrari,Portofino,Italian,2022,Upper Mainstream,3.9,591,413,3.3,218750
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+McLaren,600LT,UK,2021,Premium,3.8,592,457,2.8,256500
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Mercedes-Benz,AMG GT,German,2021,Lower Mainstream,4,523,494,3.8,118500
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.1,40590
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.0,52720
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.6,45000
+Porsche,Panamera Turbo,German,2022,Mainstream,4,620,67374,3.1,174300
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,222004
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.4,67895
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,62290
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,663,3.2,304995
+Jaguar,F-Type R,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,93050
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,101200
+BMW,M2 Competition,German,2022,Lower,3,405,47376,4.0,59895
+Audi,RS 5 Coupe,German,2021,Lower Mainstream,2.9,444,443,3.7,75100
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64195
+Lotus,Evora GT,UK,2022,Lower Mainstream,3.5,416,317,3.8,105000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,211000
+Mercedes-Benz,SLS AMG Black Series,German,2014,Premium,6.2,622,468,3.5,275000
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.4,2998000
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1280,173715,2.5,3000000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Lamborghini,Aventador SVJ,Italian,2020,Luxury,6.5,770,531,2.8,573966
+Rimac,C_Two,Croatia,2022,Exotic,Electric,1914,1732,1.85,2400000
+Pagani,Huayra Roadster BC,Italian,2021,Exotic,6,791,774,2.5,3500000
+Pininfarina,Battista,Italian,2022,Exotic,Electric,1874,1696,1.9,2500000
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.9,157500
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,146000
+Bentley,Continental GT,UK,2022,Upper Mainstream,4,542,568,3.9,219800
+Dodge,Challenger SRT Hellcat,US,2022,Lower Mainstream,6.2,717,656,3.5,70000
+Jaguar,F-Type,UK,2022,Lower,2,296,295,5.4,61600
+Kia,Stinger,South Korea,2022,Lower,3.3,368,376,4.7,52200
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100450
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.8,134300
+Porsche,718 Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102550
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,76400
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Chevrolet,Camaro ZL1,US,2022,Lower,6.2,650,65737,3.5,69000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.8,417826
+McLaren,Artura,UK,2021,Upper Mainstream,3,671,531,3.0,225000
+Mercedes-Benz,SLS AMG,German,2021,Upper Mainstream,4,577,516,3.6,247500
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.8,45790
+Porsche,Taycan,German,2022,Lower Mainstream,Electric,616,774,2.6,79900
+Tesla,Model S,US,2022,Lower Mainstream,Electric,1020,17375737,1.98,119000
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,664,3.2,307820
+Bentley,Continental GT,UK,2022,Upper Mainstream,4,542,568,3.4,207825
+Bugatti,Chiron,France,2021,Exotic,8,1479,118737,2.3,2998000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,202500
+Porsche,Taycan Turbo S,German,2021,Upper Mainstream,Electric,750,774,2.6,185000
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57379,2.9,417826
+Ferrari,F8 Tributo,Italian,2022,Premium,3.9,710,568,2.8,276550
+Audi,RS 7,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M2 CS,German,2022,Lower Mainstream,3,444,47376,4.0,84595
+Mercedes-Benz,SLS AMG,German,2021,Premium,6.2,622,468,3.2,275000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Jaguar,F-Type,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,96950
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.8,134300
+McLaren,765LT,UK,2021,Premium,4,755,59737,2.8,358000
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.0,30000
+Pagani,Huayra,Italian,2021,Exotic,6,730,738,3.0,2600000
+Porsche,Panamera Turbo S,German,2021,Upper Mainstream,4,620,67374,2.9,180000
+Tesla,Model S Plaid,US,2021,Mainstream,Electric,1020,17375737,1.9,131100
+Aston Martin,DB11,UK,2021,Upper Mainstream,4,503,513,4.0,201495
+Dodge,Challenger Hellcat Redeye,US,2022,Lower Mainstream,6.2,797,77377,3.4,82190
+Lotus,Evora,UK,2021,Lower Mainstream,3.5,416,317,3.8,96950
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,159495
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,76950
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.3,202500
+Jaguar,F-Type,UK,2022,Lower Mainstream,3,380,339,4.9,70100
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1280,173715,2.5,3000000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.8,132795
+McLaren,GT,UK,2022,Upper Mainstream,4,612,465,3.1,215500
+Mercedes-AMG,C 63 S Coupe,German,2022,Lower Mainstream,4,503,516,3.7,80900
+Porsche,718 Cayman,German,2021,Lower,2,300,28737,4.9,59900
+Rolls-Royce,Wraith,UK,2021,Premium,6.8,624,67375,4.3,330000
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,40000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,DB11,UK,2021,Upper Mainstream,5.2,630,516,3.7,209000
+Bentley,Continental GT,UK,2022,Upper Mainstream,4,542,568,3.9,202500
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.4,3000000
+Dodge,Challenger Hellcat,US,2022,Lower,6.2,717,656,3.5,67500
+Jaguar,F-Type,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1280,117376,2.5,2800000
+Lexus,LC,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,104200
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,133050
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,196350
+Mercedes-Benz,AMG C63,German,2022,Lower,4,503,516,3.8,69900
+Pagani,Huayra BC,Italian,2021,Exotic,6,791,774,2.7,2600000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102900
+Rimac,Nevera,Croatia,2022,Exotic,Electric,1914,1696,1.85,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.7,624,67375,4.4,338000
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,150000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,218400
+Dodge,Challenger SRT Hellcat Redeye,US,2021,Lower Mainstream,6.2,797,77377,3.5,73000
+Jaguar,F-Type R,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,104970
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.8,132400
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,101200
+Tesla,Roadster,US,2023,Upper Mainstream,Electric,1000+,737,1.9,200000
+Alpine,A110,France,2021,Lower Mainstream,1.8,288,236,4.4,71500
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M4,German,2021,Lower Mainstream,3,473,47376,4.1,71800
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64195
+Dodge,Viper,US,2017,Lower Mainstream,8.4,645,6737737,3.3,118795
+Ferrari,Portofino,Italian,2021,Upper Mainstream,3.9,591,56737,3.5,218750
+Jaguar,F-Type,UK,2022,Lower,3,296,295,5.4,61600
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,770,531,2.8,517700
+McLaren,600LT,UK,2021,Upper Mainstream,3.8,592,457,2.8,240000
+Aston Martin,DB11,UK,2021,Upper Mainstream,5.2,630,516,3.5,221400
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,202500
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.4,3000000
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,64100
+Jaguar,F-Type R,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1280,173715,2.5,2800000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100450
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.8,150980
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Mercedes-AMG,C 63 S,German,2022,Lower Mainstream,4,503,516,3.7,81550
+Pagani,Huayra,Italian,2021,Exotic,6,764,738,2.8,3500000
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102550
+Rimac,C_Two,Croatia,2022,Exotic,Electric,1888,1696,1.8,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.6,624,642,4.4,330000
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Toyota,Supra,Japan,2022,Lower,3,382,368,3.9,43090
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,146000
+Bentley,Continental GT,UK,2022,Upper Mainstream,4,542,568,3.9,207825
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,64195
+Jaguar,F-Type,UK,2022,Lower,3,380,339,4.8,62250
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92000
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.7,134300
+McLaren,570S,UK,2022,Upper Mainstream,3.8,562,443,2.9,204550
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102000
+Tesla,Model S Plaid,US,2021,Mainstream,Electric (tri-motor),1020,17375737,1.9,141190
+Audi,RS 5,German,2021,Lower Mainstream,2.9,444,443,3.5,75100
+BMW,M2 Competition,German,2022,Lower,3,405,47376,4.0,59895
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64995
+Dodge,Viper ACR,US,2017,Mainstream,8.4,645,6737737,3.3,126190
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.9,500000
+Porsche,Taycan 4S,German,2022,Lower Mainstream,2.5,482,472,3.8,102900
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57379,2.9,417650
+Aston Martin,DB11,UK,2021,Upper Mainstream,5.2,630,516,3.5,205000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2022,Lower Mainstream,2.9,505,443,3.8,81250
+Audi,RS7 Sportback,German,2022,Lower Mainstream,4,591,59737,3.5,115045
+BMW,M4 Competition,German,2021,Lower Mainstream,3,503,479,3.9,75695
+Chevrolet,Camaro SS,US,2022,Lower,6.2,455,455,4.1,42000
+Dodge,Charger Hellcat,US,2021,Lower Mainstream,6.2,717,65737,3.6,71490
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.9,274280
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.8,500000
+Jaguar,F-Type R,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Koenigsegg,Jesko Absolut,Sweden,2022,Exotic,5,1600,117376,2.1,2800000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,93050
+Lotus,Evija,UK,2022,Exotic,Electric,1973,1254,2.5,2750000
+McLaren,GT,UK,2022,Upper Mainstream,4,612,465,3.2,210000
+Mercedes-Benz,AMG GT Black Series,German,2021,Premium,4,720,59737,3.2,326050
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102500
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.8,417650
+Ferrari,Portofino,Italian,2021,Upper Mainstream,3.9,591,56737,3.3,218750
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,69000
+McLaren,600LT Spider,UK,2021,Premium,3.8,592,457,2.8,256500
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,72800
+Mercedes-Benz,AMG C 63,German,2022,Lower Mainstream,4,503,516,3.8,70000
+Chevrolet,Camaro SS 1LE,US,2021,Lower,6.2,455,455,4.0,44500
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.0,51000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.2,45000
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,146000
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.4,3000000
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1262,117376,2.5,3000000
+Pagani,Huayra,Italian,2021,Exotic,6,764,738,2.6,2600000
+McLaren,Speedtail,UK,2021,Exotic,4,1035,848,2.5,2300000
+Lamborghini,Sián,Italian,2021,Exotic,6.5,819,531,2.8,3600000
+Rimac,C_Two,Croatia,2021,Exotic,Electric,1914,1732,1.8,2400000
+Porsche,Cayman,German,2022,Lower,2,300,28737,4.9,59900
+Lamborghini,Aventador,Italian,2021,Premium,6.5,770,531,2.8,393695
+Ferrari,Portofino,Italian,2021,Upper Mainstream,3.9,591,413,3.5,215000
+Audi,RS 5,German,2022,Lower Mainstream,2.9,444,443,3.7,75100
+McLaren,GT,UK,2021,Upper Mainstream,4,620,465,3.1,210000
+BMW,Z4 M40i,German,2022,Lower,3,382,369,4.3,63700
+Mercedes-Benz,SLC 43,German,2020,Lower,3,385,384,4.6,62000
+Chevrolet,Camaro SS,US,2022,Lower,6.2,455,455,4.3,42500
+Ford,Mustang GT,US,2022,Lower,5,460,42737,4.3,36120
+Nissan,370Z Nismo,Japan,2020,Lower,3.7,350,276,4.6,45790
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.6,146000
+Bentley,Continental GT,UK,2021,Upper Mainstream,4,626,664,3.3,220000
+Porsche,718 Boxster,German,2022,Lower,2,300,28737,4.9,62000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,222004
+Ferrari,F8 Spider,Italian,2021,Premium,3.9,710,568,2.9,280000
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,69900
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,2.9,208800
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.0,72800
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.9,60500
+Lamborghini,Aventador,Italian,2021,Premium,6.5,730,57379,2.9,393695
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,RS5,German,2022,Lower Mainstream,2.9,444,443,3.7,75100
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.2,208800
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.6,229000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,62000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2020,Lower,3.7,350,276,5.2,46200
+Dodge,Challenger SRT Hellcat,US,2021,Lower Mainstream,6.2,717,656,3.6,71000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,663,3.2,308000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2022,Lower Mainstream,2.9,505,443,3.8,80500
+Jaguar,F-Type R,UK,2021,Lower Mainstream,5,575,516,3.5,105900
+Lotus,Evora GT,UK,2020,Lower Mainstream,3.5,416,317,3.8,96950
+Maserati,GranTurismo,Italian,2019,Mainstream,4.7,454,384,4.7,150980
+Porsche,Panamera Turbo S,German,2022,Upper Mainstream,4,630,67374,2.9,180800
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,218000
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,146000
+Lotus,Evora,UK,2021,Lower Mainstream,3.5,416,317,3.8,94000
+Alfa Romeo,4C Spider,Italian,2020,Lower,1.7,237,258,4.1,67150
+Jaguar,F-Type,UK,2022,Lower Mainstream,3,380,339,4.9,70900
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,134300
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,100200
+Audi,RS5 Coupe,German,2022,Lower Mainstream,2.9,444,443,3.7,76450
+BMW,M2 Competition,German,2021,Lower,3,405,47376,4.0,58900
+Chevrolet,Camaro ZL1,US,2022,Lower,6.2,650,65737,3.5,64000
+Dodge,Challenger SRT Hellcat,US,2022,Lower,6.2,717,656,3.5,61500
+Ford,GT,US,2021,Luxury,3.5,647,55737,2.8,500000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+McLaren,570S,UK,2022,Upper Mainstream,3.8,562,443,3.1,198950
+Mercedes-AMG,C63 S Coupe,German,2021,Lower Mainstream,4,503,516,3.7,77950
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.9,45790
+Porsche,718 Boxster,German,2021,Lower,2,300,28737,4.9,62000
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,729,57377,2.9,417826
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.9,274280
+Audi,TT RS Coupe,German,2021,Lower,2.5,394,354,3.6,67600
+BMW,M4 Coupe,German,2021,Lower Mainstream,3,473,47376,3.8,71800
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,159495
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,664,3.4,314500
+Bentley,Continental GT,UK,2022,Upper Mainstream,6,626,664,3.3,214425
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.3,3000000
+Dodge,Challenger SRT Hellcat,US,2022,Lower Mainstream,6.2,717,656,3.5,71490
+Jaguar,F-Type,UK,2021,Lower Mainstream,5,575,516,3.5,105900
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1280,117376,2.5,2800000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,104400
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.7,150980
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Pagani,Huayra,Italian,2021,Exotic,6,764,738,2.6,2600000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102000
+Rimac,C_Two,Croatia,2021,Exotic,Electric,1914,1696,1.9,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.8,624,67375,4.4,335550
+Tesla,Model S Plaid,US,2021,Mainstream,Electric,1020,17375737,1.9,141990
+Toyota,GR Supra,Japan,2022,Lower,3,382,368,3.9,43090
+TVR,Griffith,UK,2021,Mainstream,5,500,42737,3.9,157500
+Ultima,RS,UK,2021,Upper Mainstream,6.2,1200,13737737,2.3,220000
+W Motors,Fenyr SuperSport,United Arab Emirates,2022,Exotic,3.8,800,723,2.7,1550000
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.9,157500
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,663,3.2,308000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,202500
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.3,3000000
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,65000
+Jaguar,F-Type,UK,2021,Lower,3,380,339,4.9,63100
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evija,UK,2022,Exotic,Electric,1973,1254,2.5,2600000
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.8,134300
+Porsche,Taycan,German,2021,Upper Mainstream,Electric,616,774,2.6,185000
+Rimac,C_Two,Croatia,2022,Exotic,Electric,1914,1696,1.9,2400000
+Tesla,Model S Plaid,US,2022,Mainstream,Electric,1020,17375737,1.98,140000
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Mercedes-Benz,AMG GT Black Series,German,2021,Premium,4,720,59737,3.1,325000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Ford,GT,US,2021,Luxury,3.5,647,55737,3.0,500000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.4,307820
+Jaguar,F-Type,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Dodge,Challenger SRT Hellcat Redeye,US,2021,Lower Mainstream,6.2,797,77377,3.5,80190
+Lotus,Evora GT,UK,2022,Lower Mainstream,3.5,416,317,3.8,105000
+Alfa Romeo,4C Spider,Italian,2020,Lower,1.8,237,258,4.1,68745
+Subaru,WRX STI,Japan,2022,Lower,2.5,310,29737,5.2,38170
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.7,157500
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1280,173715,2.5,2800000
+Tesla,Model S Plaid,US,2022,Mainstream,Electric,1020,17375737,1.98,139990
+Bugatti,Chiron Super Sport 300+,France,2022,Exotic,8,1578,118737,2.3,5200000
+McLaren,Senna,UK,2020,Exotic,4,789,59737,2.7,1500000
+Porsche,Taycan Turbo S,German,2022,Upper Mainstream,Electric,750,774,2.6,185000
+Mercedes-Benz,SLS AMG Black Series,German,2014,Premium,6.2,622,468,3.5,275000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,93050
+Chevrolet,Camaro ZL1,US,2022,Lower,6.2,650,65737,3.5,65000
+Audi,RS 7 Sportback,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+BMW,M2 CS,German,2022,Lower Mainstream,3,444,47376,3.8,84595
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102550
+Lamborghini,Aventador,Italian,2022,Premium,6.5,770,531,2.8,393695
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,146000
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,96950
+Porsche,Panamera Turbo S,German,2021,Upper Mainstream,4,620,67374,2.9,180000
+Lamborghini,Aventador S,Italian,2022,Luxury,6.5,729,57377,2.9,460247
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS 6 Avant,German,2022,Lower Mainstream,4,591,59737,3.1,110045
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,192500
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Mercedes-Benz,AMG C 63 S,German,2021,Lower Mainstream,4,503,516,3.7,77400
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,64195
+Ford,GT,US,2021,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2020,Lower,3.7,350,276,5.0,46815
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102550
+Audi,TT RS,German,2021,Lower,2.5,394,354,3.6,67895
+Chevrolet,Corvette Z06,US,2023,Lower Mainstream,5.5,625,65737,2.6,85000
+Lamborghini,Urus,Italian,2022,Upper Mainstream,4,641,626,3.2,218009
+Mercedes-Benz,AMG GT 63 S,German,2021,Mainstream,4,630,664,3.1,162900
+Ferrari,Portofino M,Italian,2022,Upper Mainstream,3.9,612,56737,3.5,245000
+Bugatti,Chiron,France,2021,Exotic,8,1479,118737,2.5,3000000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.4,304995
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100450
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,100200
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,157500
+Lexus,LC,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,74750
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.3,218400
+BMW,M5,German,2021,Lower Mainstream,4.4,600,553,3.2,103500
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Dodge,Challenger Hellcat,US,2021,Lower Mainstream,6.2,717,656,3.5,70595
+Ford,GT,US,2022,Luxury,3.5,647,55737,3.0,500000
+Jaguar,F-Type R,UK,2021,Lower Mainstream,5,575,516,3.5,103200
+Lamborghini,Aventador,Italian,2021,Premium,6.5,730,57379,2.9,393695
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,203500
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,583,479,3.6,221580
+Nissan,370Z Nismo,Japan,2020,Lower,3.7,350,276,4.7,47190
+Porsche,Boxster,German,2021,Lower,2,300,28737,4.9,62000
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.9,61500
+Lamborghini,Aventador,Italian,2021,Premium,6.5,759,531,2.9,393695
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,612,561,3.3,222630
+Audi,RS 5,German,2022,Lower Mainstream,2.9,444,442,3.5,75400
+McLaren,570S,UK,2020,Upper Mainstream,3.8,562,443,3.1,208000
+BMW,M2,German,2022,Lower,3,405,47376,4.2,58900
+Mercedes-Benz,SL,German,2022,Lower Mainstream,3,429,384,4.9,96250
+Chevrolet,Camaro,US,2021,Lower,6.2,455,455,4.0,25000
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,45000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.4,307820
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100450
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,134300
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.2,88550
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,218009
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS 6,German,2022,Lower Mainstream,4,591,59737,3.5,109000
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Porsche,Taycan 4S,German,2021,Lower Mainstream,Electric (93 kWh),429,472,3.8,103800
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57379,2.9,417650
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS 7,German,2022,Lower Mainstream,4,591,59737,3.5,117000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,192500
+BMW,M4,German,2021,Lower Mainstream,3,473,47376,4.0,72800
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.5,228000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42000
+Ford,GT,US,2021,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,48000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.2,307820
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,93000
+Bentley,Continental GT,UK,2021,Upper Mainstream,4,626,664,3.3,202500
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,150980
+Tesla,Model S Plaid,US,2022,Mainstream,Electric (100 kWh),1020,17375737,1.98,131190
+Rolls-Royce,Dawn,UK,2021,Premium,6.6,563,67375,4.3,346300
+Bugatti,Chiron Pur Sport,France,2021,Exotic,8,1500,118737,2.3,3599000
+McLaren,Senna,UK,2019,Exotic,4,789,59737,2.7,1050000
+Porsche,Panamera Turbo S E-Hybrid,German,2021,Upper Mainstream,Hybrid (4.0),690,641,3.0,186350
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,DB11,UK,2021,Upper Mainstream,4,503,498,3.7,205600
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,201000
+Bugatti,Chiron,France,2021,Exotic,8,1500,118737,2.5,3000000
+Chevrolet,Camaro ZL1,US,2022,Lower,6.2,650,65737,3.5,67000
+Dodge,Challenger Hellcat,US,2021,Lower,6.2,717,656,3.5,64000
+Ferrari,812 Superfast,Italian,2021,Premium,6.5,789,53737,2.8,340000
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,770,531,2.8,517770
+McLaren,600LT Spider,UK,2021,Premium,3.8,592,457,2.8,256500
+Mercedes-AMG,GT Black Series,German,2021,Premium,4,720,59737,3.1,325000
+Nissan,400Z,Japan,2023,Lower,3,400,35737,4.0,40000
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,101000
+Rimac,Nevera,Croatia,2021,Exotic,Electric,1914,1696,1.9,2400000
+Rolls-Royce,Wraith,UK,2021,Premium,6.8,624,67375,4.4,330000
+Tesla,Model S Plaid,US,2021,Mainstream,Electric,1020,17375737,1.9,139990
+Toyota,Supra,Japan,2021,Lower,3,382,368,3.9,43000
+Porsche,718 Boxster,German,2021,Lower,2,300,28737,4.9,62000
+Porsche,718 Boxster,German,2022,Lower,2,300,28737,4.9,62000
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57379,2.9,417826
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,RS 7,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+McLaren,Artura,UK,2021,Upper Mainstream,3,671,531,3.0,225000
+BMW,M2,German,2022,Lower,3,405,47376,4.1,58900
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,583,479,3.6,221580
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Ford,GT,US,2022,Luxury,3.5,647,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.8,45000
+Dodge,Charger Hellcat,US,2021,Lower,6.2,707,65737,3.6,69995
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,663,3.2,305000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,75000
+Audi,TT RS,German,2021,Lower,2.5,394,354,3.6,68000
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.6,203825
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Chevrolet,Corvette Stingray,US,2021,Lower,6.2,495,47737,2.9,58900
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,63000
+Ford,Mustang GT,US,2022,Lower,5,460,42737,4.0,45000
+Porsche,Cayman,German,2022,Lower,2,300,28737,4.9,59900
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.8,417826
+Ferrari,Roma,Italian,2022,Upper Mainstream,3.9,612,56737,3.3,222630
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,2.7,204995
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,71800
+Mercedes-Benz,SLS AMG,German,2021,Upper Mainstream,6.2,622,468,3.5,243600
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,47190
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.4,88550
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,218000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS6,German,2022,Lower Mainstream,4,591,59737,3.5,113000
+McLaren,Artura,UK,2021,Upper Mainstream,3,671,531,3.0,225000
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Mercedes-Benz,GT 63,German,2021,Mainstream,4,577,59737,3.3,161200
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,663,3.2,310000
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.4,3000000
+Koenigsegg,Jesko,Sweden,2021,Exotic,5,1280,117376,2.5,2800000
+Pagani,Huayra,Italian,2021,Exotic,6,764,737,3.0,2600000
+Rimac,C_Two,Croatia,2022,Exotic,Electric,1914,1696,1.85,2400000
+McLaren,Senna,UK,2021,Exotic,4,789,59737,2.7,1000000
+Porsche,918 Spyder,German,2015,Exotic,4.6,887,944,2.2,1800000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Lamborghini,Aventador SVJ,Italian,2020,Luxury,6.5,759,531,2.8,517000
+Audi,RS 6 Avant,German,2021,Lower Mainstream,4,591,59737,3.5,110000
+Bentley,Continental GT Speed,UK,2022,Premium,6,650,664,3.5,300000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,68000
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,65000
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.9,500000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92000
+Lotus,Evija,UK,2022,Exotic,Electric,1972,1254,2.5,2700000
+Mercedes-AMG,GT Black Series,German,2021,Premium,4,720,59737,3.1,330000
+Aston Martin,DB11,UK,2021,Upper Mainstream,4,503,513,3.9,205000
+Bentley,Continental GT,UK,2022,Upper Mainstream,4,542,568,3.9,229000
+Jaguar,F-Type,UK,2022,Lower,2,296,295,5.4,62750
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100000
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,135000
+Porsche,Boxster,German,2022,Lower,2,300,28737,4.9,63000
+Alfa Romeo,4C,Italian,2020,Lower,1.8,237,258,4.2,67150
+Chevrolet,Camaro,US,2022,Lower,6.2,455,455,4.0,62195
+Dodge,Challenger,US,2022,Lower,3.6,305,268,6.4,28000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.9,500000
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,115045
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,71800
+Lamborghini,Aventador,Italian,2021,Premium,6.5,729,57377,2.9,393695
+Mercedes-Benz,AMG C 63,German,2021,Lower,4,469,479,3.8,69900
+Nissan,370Z,Japan,2021,Lower,3.7,350,276,5.3,30090
+Porsche,Cayman,German,2022,Lower,2,300,28737,4.9,68000
+BMW,i8,German,2022,Mainstream,1.5,369,184,4.2,147500
+Chevrolet,Corvette Stingray,US,2021,Lower,6.2,495,47737,2.9,58900
+Porsche,Taycan Turbo S,German,2022,Upper Mainstream,Electric,750,774,2.6,185000
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,729,57377,2.9,417650
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,115000
+McLaren,GT,UK,2022,Upper Mainstream,4,620,465,3.1,208000
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Mercedes-Benz,SLS AMG,German,2021,Premium,4,730,59737,2.9,250000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,46100
+Porsche,Panamera Turbo S,German,2022,Upper Mainstream,4,630,67374,3.1,180000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.2,218000
+Ferrari,Portofino,Italian,2022,Premium,3.9,591,561,3.4,250000
+Audi,TT RS,German,2022,Lower Mainstream,2.5,394,354,3.6,70000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,200000
+BMW,i8,German,2022,Mainstream,Hybrid,369,184,4.2,148500
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.9,61500
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,770,531,2.8,417826
+Ferrari,Portofino,Italian,2022,Upper Mainstream,3.9,612,561,3.3,245000
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,67800
+McLaren,GT,UK,2022,Upper Mainstream,4,620,465,3.1,211300
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,71800
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.5,222500
+Chevrolet,Camaro SS,US,2022,Lower,6.2,455,455,4.0,43995
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.9,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.8,45790
+Porsche,911 Turbo S,German,2022,Upper Mainstream,3.8,640,59737,2.6,208000
+McLaren,765LT,UK,2021,Premium,4,755,59737,2.8,358000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,218009
+Mercedes-AMG,GT Black Series,German,2021,Premium,4,720,59737,3.1,325000
+BMW,M5 Competition,German,2022,Lower Mainstream,4.4,617,553,3.1,103500
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,115000
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.5,152995
+Ferrari,F8 Spider,Italian,2021,Premium,3.9,710,568,2.9,274280
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,102550
+Porsche,Taycan,German,2022,Lower Mainstream,Electric,469,479,3.8,79900
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,759,531,2.8,517770
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS6 Avant,German,2021,Lower Mainstream,4,591,59737,3.5,109000
+McLaren,600LT Spider,UK,2021,Premium,3.8,592,457,2.8,256500
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,3.8,71800
+Mercedes-Benz,AMG GT R,German,2021,Upper Mainstream,4,577,516,3.5,180000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64695
+Ford,GT,US,2022,Luxury,3.5,660,55737,3.0,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,5.0,48000
+Porsche,Panamera Turbo S E-Hybrid,German,2021,Upper Mainstream,4,690,642,3.0,190000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.5,218000
+Ferrari,Portofino M,Italian,2021,Upper Mainstream,3.9,612,561,3.4,235000
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,67600
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+BMW,M2 CS,German,2022,Lower Mainstream,3,444,47376,3.8,84595
+Mercedes-Benz,SLS AMG Black Series,German,2021,Premium,6.2,622,468,3.5,335000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42000
+Porsche,718 Boxster,German,2022,Lower,2,300,28737,4.9,63000
+Lamborghini,Aventador SVJ,Italian,2020,Luxury,6.5,759,531,2.8,573966
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,TT RS Coupe,German,2022,Lower,2.5,394,354,3.5,68000
+McLaren,GT,UK,2020,Upper Mainstream,4,612,465,3.1,210000
+BMW,Z4 Roadster,German,2022,Lower,2,255,295,5.2,50000
+Mercedes-Benz,SLS AMG,German,2015,Upper Mainstream,6.2,622,468,3.6,200000
+Chevrolet,Camaro SS Convertible,US,2022,Lower,6.2,455,455,4.0,49000
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.9,500000
+Nissan,370Z Coupe,Japan,2020,Lower,3.7,332,27737,5.0,30090
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,142086
+Bentley,Continental GT,UK,2022,Upper Mainstream,6,626,664,3.3,225000
+Bugatti,Chiron,France,2021,Exotic,8,1479,118737,2.4,3000000
+Dodge,Challenger SRT Hellcat,US,2022,Lower,6.2,717,656,3.5,68000
+Jaguar,F-Type,UK,2022,Lower,2,296,295,5.4,63700
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100000
+Maserati,GranTurismo,Italian,2022,Mainstream,4.7,454,384,4.7,150980
+Aston Martin,DBS Superleggera,UK,2021,Premium,5.2,715,664,3.2,304995
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,98395
+Porsche,Panamera Turbo S E-Hybrid,German,2021,Upper Mainstream,4,689,642,3.0,190000
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,759,531,2.8,517000
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,117000
+Mercedes-Benz,S63 AMG,German,2021,Mainstream,4,603,664,3.4,168000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,64500
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.7,46000
+Porsche,718 Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102000
+Mercedes-AMG,C63 S Coupe,German,2021,Lower Mainstream,4,503,516,3.7,77500
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,147000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,193000
+BMW,M5,German,2022,Lower Mainstream,4.4,600,553,3.2,103500
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,64000
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92950
+Mercedes-AMG,GT 63 S,German,2021,Mainstream,4,630,664,3.1,162000
+Audi,TT RS,German,2021,Lower,2.5,394,354,3.6,67600
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.9,157500
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102000
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57379,2.9,417826
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS 5,German,2022,Lower Mainstream,2.9,444,443,3.5,76700
+McLaren,570S Spider,UK,2020,Upper Mainstream,3.8,562,443,3.1,208800
+BMW,M2 Competition,German,2022,Lower,3,405,47376,4.2,58900
+Mercedes-Benz,C 63 AMG,German,2022,Lower,4,469,479,3.9,69000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.0,42000
+Ford,Mustang GT,US,2022,Lower,5,460,42737,4.5,43000
+Dodge,Challenger R/T,US,2021,Lower,5.7,372,4737737,5.1,35000
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,151000
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+Alfa Romeo,4C Spider,Italian,2020,Lower,1.7,237,258,4.1,69000
+Jaguar,F-Type,UK,2022,Lower,2,296,295,5.4,62500
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1600,117376,2.5,3000000
+Bugatti,Chiron Super Sport 300+,France,2021,Exotic,8,1578,118737,2.4,5200000
+Rimac,Nevera,Croatia,2021,Exotic,Electric,1914,1696,1.85,2400000
+Porsche,Cayman GT4,German,2022,Lower Mainstream,4,414,37379,4.2,102100
+Chevrolet,Camaro ZL1,US,2022,Lower,6.2,650,65737,3.5,63000
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,142086
+Alfa Romeo,Giulia Quadrifoglio,Italian,2022,Lower Mainstream,2.9,505,443,3.8,83250
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,65000
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,93050
+Audi,RS 7 Sportback,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M4 Competition,German,2022,Lower Mainstream,3,503,479,3.8,74700
+Mercedes-Benz,C63 S AMG,German,2022,Lower Mainstream,4,503,516,3.9,77600
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.9,500000
+McLaren,GT,UK,2021,Upper Mainstream,4,620,465,3.1,210000
+Porsche,Panamera Turbo S,German,2022,Upper Mainstream,4,630,67374,2.9,181100
+Lamborghini,Aventador S,Italian,2021,Luxury,6.5,730,57377,2.9,417826
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,664,3.2,329100
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,67600
+Mercedes-Benz,AMG C43 Coupe,German,2021,Lower,3,385,384,4.5,59900
+BMW,i8,German,2022,Mainstream,1.5,369,184,4.2,147500
+Chevrolet,Corvette Stingray,US,2021,Lower,6.2,490,465,2.9,59900
+Porsche,Taycan,German,2022,Lower Mainstream,2.0 (Electric),469,263,3.8,81250
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,730,57379,2.9,517000
+Ferrari,Roma,Italian,2021,Upper Mainstream,3.9,611,56737,3.3,222620
+Audi,RS7,German,2022,Lower Mainstream,4,591,59737,3.5,115000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+BMW,M2,German,2022,Lower,3,405,47376,4.2,58900
+Mercedes-Benz,C63 AMG,German,2021,Lower Mainstream,4,469,479,3.9,77000
+Chevrolet,Camaro SS,US,2021,Lower,6.2,455,455,4.1,43995
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.1,51720
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.8,46610
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.3,88550
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,218009
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4.0 (Hybrid),986,59737,2.5,625000
+Audi,RS6,German,2022,Mainstream,4,591,59737,3.5,120000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,192500
+BMW,M4,German,2022,Lower Mainstream,3,503,479,3.8,74000
+Mercedes-Benz,AMG A45,German,2021,Lower,2,382,354,4.0,50000
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63995
+Acura,NSX,Japan,2021,Mainstream,3.5,573,476,2.7,157500
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,142086
+Bentley,Continental GT,UK,2021,Upper Mainstream,4,542,568,3.3,202500
+Bugatti,Chiron,France,2022,Exotic,8,1479,118737,2.4,2900000
+Ferrari,F8 Tributo,Italian,2022,Premium,3.9,710,568,2.8,275000
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,730,57379,2.9,517000
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,201500
+Mercedes-Benz,AMG GT R,German,2021,Upper Mainstream,4,577,516,3.5,183000
+Porsche,Taycan Turbo S,German,2021,Upper Mainstream,Electric,750,774,2.6,185000
+Audi,RS7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M4,German,2021,Lower Mainstream,3,473,47376,4.1,71800
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Dodge,Challenger SRT Hellcat Redeye,US,2022,Lower Mainstream,6.2,797,77377,3.5,80190
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Jaguar,F-Type,UK,2021,Lower,3,380,339,4.4,62750
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,92000
+Lotus,Evija,UK,2021,Exotic,Electric,2000,1254,2.8,2800000
+Maserati,GranTurismo,Italian,2021,Upper Mainstream,Electric,550,,2.8,200000
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.0,30090
+Rolls-Royce,Ghost,UK,2021,Premium,6.8,563,627,4.6,332500
+Porsche,Taycan,German,2021,Lower Mainstream,2,402,254,5.1,81250
+Aston Martin,DB11,UK,2021,Upper Mainstream,4,630,516,3.7,198995
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,105000
+Acura,NSX,Japan,2022,Mainstream,3.5,573,476,2.7,157500
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000,737,1.9,200000
+Chevrolet,Camaro,US,2022,Lower,6.2,455,455,4.0,25000
+Dodge,Charger,US,2021,Lower Mainstream,6.2,797,77377,3.3,72000
+Jaguar,F-Type,UK,2021,Lower,3,380,339,4.9,62750
+Lexus,LC 500,Japan,2021,Lower Mainstream,5,471,398,4.4,93000
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,71800
+Ford,GT,US,2021,Luxury,3.5,660,55737,2.9,500000
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,150980
+McLaren,600LT,UK,2021,Premium,3.8,592,457,2.8,256500
+Mercedes-Benz,SLS AMG,German,2021,Premium,6.2,622,468,3.6,254995
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.2,30000
+Audi,RS 7,German,2021,Lower Mainstream,4,591,59737,3.4,114000
+Bentley,Continental GT,UK,2021,Upper Mainstream,4,542,568,3.9,220000
+Bugatti,Chiron,France,2021,Exotic,8,1500,"1,18737",2.4,3000000
+Porsche,Cayman,German,2022,Lower,2,300,28737,4.5,59900
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.5,147000
+Alfa Romeo,4C Spider,Italian,2020,Lower,1.7,237,258,4.1,67150
+Audi,RS 5,German,2022,Lower Mainstream,2.9,444,443,3.5,75100
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,60695
+Ferrari,F8 Spider,Italian,2022,Premium,3.9,710,568,2.9,274390
+Jaguar,F-Type,UK,2021,Lower,3,296,295,5.4,64700
+Lamborghini,Aventador,Italian,2021,Luxury,6.5,759,531,2.9,517770
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,99990
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,150800
+McLaren,GT,UK,2021,Upper Mainstream,4,612,465,3.1,210000
+Mercedes-Benz,AMG C 63,German,2021,Lower,4,469,479,3.8,67600
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.5,45790
+Porsche,Panamera,German,2022,Lower Mainstream,2.9,325,331,5.3,88800
+Subaru,WRX STI,Japan,2021,Lower,2.5,310,29737,5.2,38170
+Tesla,Roadster,US,2022,Upper Mainstream,Electric,1000+,737,1.9,200000
+Porsche,718 Cayman,German,2022,Lower,2,300,28737,4.9,61500
+Lamborghini,Aventador,Italian,2021,Premium,6.5,729,57379,2.9,393695
+Ferrari,SF90 Stradale,Italian,2022,Luxury,4,986,59737,2.5,625000
+Audi,RS5 Coupe,German,2022,Lower Mainstream,2.9,444,443,3.5,76350
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,202000
+BMW,M2,German,2022,Lower,3,405,47376,4.0,58900
+Mercedes-Benz,SL,German,2022,Lower Mainstream,3,429,384,4.4,96000
+Chevrolet,Camaro,US,2021,Lower,6.2,455,455,4.0,25000
+Ford,GT,US,2022,Luxury,3.5,660,55737,2.8,500000
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.3,33000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,75250
+Aston Martin,DB11,UK,2022,Upper Mainstream,4,630,516,3.7,201495
+Bentley,Continental GT,UK,2021,Upper Mainstream,6,626,664,3.3,201000
+Dodge,Challenger,US,2021,Lower,6.4,485,475,3.8,62000
+Jaguar,F-Type R,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,99000
+Maserati,GranTurismo,Italian,2021,Mainstream,4.7,454,384,4.7,150000
+Porsche,Cayman GT4,German,2021,Lower Mainstream,4,414,37379,4.2,102500
+Aston Martin,Vantage,UK,2022,Mainstream,4,503,57375,3.5,149995
+Dodge,Charger SRT Hellcat,US,2022,Lower Mainstream,6.2,717,65737,3.5,78595
+Audi,RS 7,German,2021,Lower Mainstream,4,591,59737,3.5,114000
+Chevrolet,Camaro SS,US,2022,Lower,6.2,455,455,4.1,37500
+Ford,Mustang GT,US,2022,Lower,5,460,42737,4.0,38500
+Jaguar,F-Type R,UK,2022,Lower Mainstream,5,575,516,3.5,103200
+Lexus,LC 500,Japan,2022,Lower Mainstream,5,471,398,4.4,92950
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,208800
+Mercedes-Benz,AMG C63,German,2022,Lower Mainstream,4,469,479,3.8,71450
+Nissan,370Z Nismo,Japan,2021,Lower,3.7,350,276,4.9,47820
+Porsche,Panamera GTS,German,2021,Mainstream,4,473,457,3.9,134150
+Audi,TT RS,German,2022,Lower,2.5,394,354,3.6,67600
+BMW,M4,German,2021,Lower Mainstream,3,473,47376,3.8,71800
+Ferrari,F8 Tributo,Italian,2021,Premium,3.9,710,568,2.8,274280
+Lamborghini,Aventador,Italian,2021,Premium,6.5,770,531,2.9,393695
+McLaren,GT,UK,2021,Premium,4,612,465,3.1,250000
+Mercedes-Benz,AMG GT 4-Door Coupe,German,2021,Mainstream,4,630,664,3.1,171200
+Aston Martin,DBS Superleggera,UK,2022,Premium,5.2,715,663,3.4,321000
+Lotus,Evora GT,UK,2021,Lower Mainstream,3.5,416,317,3.8,100500
+Porsche,Taycan Turbo S,German,2021,Upper Mainstream,Electric,750,774,2.6,185000
+McLaren,570S,UK,2021,Upper Mainstream,3.8,562,443,3.1,195000
+Lamborghini,Aventador SVJ,Italian,2021,Luxury,6.5,759,531,2.8,517770
+Ford,GT,US,2021,Luxury,3.5,660,55737,3.0,500000
+Audi,RS7 Sportback,German,2022,Lower Mainstream,4,591,59737,3.5,114000
+BMW,M4,German,2022,Lower Mainstream,3,473,47376,4.1,72800
+Mercedes-AMG,C63 S,German,2022,Lower Mainstream,4,503,516,3.7,78100
+Chevrolet,Camaro ZL1,US,2021,Lower,6.2,650,65737,3.5,63000
+Dodge,Charger Hellcat,US,2021,Lower Mainstream,6.2,717,65737,3.6,70000
+Alfa Romeo,Giulia Quadrifoglio,Italian,2021,Lower Mainstream,2.9,505,443,3.8,78450
+Tesla,Model S Plaid,US,2022,Mainstream,Electric,1020,17375737,1.9,141190
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Porsche,Panamera Turbo S E-Hybrid,German,2021,Upper Mainstream,Hybrid,689,642,3.0,190000
+McLaren,Artura,UK,2022,Upper Mainstream,3,671,531,3.0,225000
+Lamborghini,Urus,Italian,2021,Upper Mainstream,4,641,627,3.6,222000
+Ford,Mustang Mach 1,US,2021,Lower,5,480,42737,4.0,52915
+Porsche,911,German,2022,Lower Mainstream,3,379,331,4.0,101200
+Lamborghini,Huracan,Italian,2021,Premium,5.2,630,443,2.8,274390
+Ferrari,488 GTB,Italian,2022,Premium,3.9,661,561,3.0,333750
+Audi,R8,German,2022,Mainstream,5.2,562,47376,3.2,142700
+McLaren,720S,UK,2021,Premium,4,710,568,2.7,298000
+BMW,M8,German,2022,Mainstream,4.4,617,553,3.1,130000
+Mercedes-Benz,AMG GT,German,2021,Lower Mainstream,4,523,494,3.8,118500
+Chevrolet,Corvette,US,2021,Lower,6.2,490,465,2.8,59900
+Ford,Mustang Shelby GT500,US,2022,Lower Mainstream,5.2,760,625,3.5,81000
+Nissan,GT-R Nismo,Japan,2021,Upper Mainstream,3.8,600,481,2.5,212000
+Dodge,Challenger SRT Hellcat,US,2021,Lower,6.2,717,656,3.5,64195
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,147000
+Bugatti,Chiron,France,2022,Exotic,8,1500,118737,2.5,3900000
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1280,173715,2.5,3000000
+Pagani,Huayra,Italian,2021,Exotic,6,764,74737,2.8,2600000
+Rimac,Nevera,Croatia,2022,Exotic,Electric,1914,1696,1.85,2400000
+Lotus,Evija,UK,2022,Exotic,Electric,1973,1254,2.5,2000000
+Pininfarina,Battista,Italian,2021,Exotic,Electric,1872,1696,1.9,2500000
+Maserati,MC20,Italian,2021,Upper Mainstream,3,621,538,2.9,210000
+Porsche,Cayman,German,2021,Lower,2,300,28737,5.1,59900
+Lamborghini,Aventador,Italian,2021,Premium,6.5,730,57379,2.9,393695
+Ferrari,SF90 Stradale,Italian,2021,Luxury,4,986,59737,2.5,625000
+Audi,RS 5,German,2021,Lower Mainstream,2.9,444,443,3.5,75100
+McLaren,GT,UK,2022,Upper Mainstream,4,612,465,3.1,210000
+BMW,M2,German,2021,Lower,3,405,47376,4.0,58900
+Mercedes-Benz,SLS AMG,German,2021,Premium,6.3,622,468,3.6,254500
+Chevrolet,Camaro,US,2021,Lower,6.2,455,455,4.0,25000
+Ford,Mustang,US,2021,Lower,2.3,310,35737,5.3,27205
+Nissan,370Z,Japan,2021,Lower,3.7,332,27737,5.1,30090
+Aston Martin,Vantage,UK,2021,Mainstream,4,503,57375,3.6,146000
+Bugatti,Chiron,France,2021,Exotic,8,1479,118737,2.4,3000000
+Koenigsegg,Jesko,Sweden,2022,Exotic,5,1280,117376,2.5,3000000
+Lotus,Evija,UK,2021,Exotic,Electric,1972,1254,2.0,2000000
+McLaren,Senna,UK,2021,Exotic,4,789,59737,2.7,1000000
+Pagani,Huayra,Italian,2021,Exotic,6,764,738,3.0,2600000
+Rimac,Nevera,Croatia,2021,Exotic,Electric,1888,1696,1.85,2400000
