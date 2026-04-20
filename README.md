@@ -1,5 +1,5 @@
 
-# 🚗 Luxus-Car Chatbot
+# 🚗 Luxus-Car & Chatbot 24/7
 
 Ein intelligenter **KI-Chatbot** für Luxus- und Premium-Automobile, entwickelt mit **Streamlit**.  
 Der Bot hilft Nutzern, schnell und natürlich Informationen zu Luxusfahrzeugen zu erhalten – von technischen Specs über Ausstattung bis hin zu Vergleichen und Kaufberatung.
